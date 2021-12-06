@@ -112,6 +112,7 @@ author:
   bio              : "남들보다 느리지만 천천히 가는중입니다."
   location         : "Korea"
   email            : "summerland829@gmail.com"
+  github           : "https://github.com/RINLAND"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
