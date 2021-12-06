@@ -19,14 +19,14 @@ locale                   : "ko-KR"
 title                    : "기록하는 작은방"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "김예린"
+description              : "공부한 내용을 정리 후 업로드 하는 블로그"
 url                      :  "https://rinland.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : # GitHub username/repo-name e.g. "rinland/rinland.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : # overrides the website title displayed in the masthead, use " 소소하게 기록하는 공간 " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
